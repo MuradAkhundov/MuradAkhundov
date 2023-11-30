@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Murad Akhundov ======================================================================================================================================  Android Developer -----------------  * 🌍  I'm based in Baku * ✉️  You can contact me at [axundovvmurad@gmail.com](mailto:axundovvmurad@gmail.com) * 🧠  I'm learning Kotlin/Flutter
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Murad Akhundov 
+Android Developer -----------------  * 🌍  I'm based in Baku * ✉️  You can contact me at [axundovvmurad@gmail.com](mailto:axundovvmurad@gmail.com) * 🧠  I'm learning Kotlin/Flutter
 
 ### Skills  
 
